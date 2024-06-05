@@ -19,13 +19,13 @@ function App() {
     <>
     <div>
       <SubLayout>
-        <PaymentMethod />
+        {/* <PaymentMethod /> */}
         {/* <ProfileLayout /> */}
         {/* <TopUpWallet /> */}
         {/* <BuyAirtime /> */}
         {/* <AirtimeConfirmation /> */}
         {/* <TopUpSuccess /> */}
-        {/* <PaymentSuccess /> */}
+        <PaymentSuccess />
       </SubLayout>
 
         {/* <Billpayment /> */}
